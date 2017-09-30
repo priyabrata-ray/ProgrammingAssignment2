@@ -17,7 +17,6 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
 ## Write a short comment describing this function
 ## Assuming Matrix is invertible
 cacheSolve <- function(x, ...) {
